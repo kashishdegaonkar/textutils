@@ -4,6 +4,12 @@
   
 }
 
+.custom-color {
+  background-color: #57656e;
+  color: #ffffff;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
